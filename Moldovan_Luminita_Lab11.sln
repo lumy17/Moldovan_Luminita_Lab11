@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moldovan_Luminita_Lab11", "Moldovan_Luminita_Lab11.csproj", "{B54D903F-BEC6-4E1A-9E7A-63374FE5D701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moldovan_Luminita_Lab11-2", "..\Moldovan_Luminita_Lab11-2\Moldovan_Luminita_Lab11-2.csproj", "{3B7FAE94-0CA7-41EB-BA48-6E5416BCF571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54D903F-BEC6-4E1A-9E7A-63374FE5D701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54D903F-BEC6-4E1A-9E7A-63374FE5D701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54D903F-BEC6-4E1A-9E7A-63374FE5D701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54D903F-BEC6-4E1A-9E7A-63374FE5D701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7FAE94-0CA7-41EB-BA48-6E5416BCF571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7FAE94-0CA7-41EB-BA48-6E5416BCF571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7FAE94-0CA7-41EB-BA48-6E5416BCF571}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3B7FAE94-0CA7-41EB-BA48-6E5416BCF571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7FAE94-0CA7-41EB-BA48-6E5416BCF571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7FAE94-0CA7-41EB-BA48-6E5416BCF571}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F3CBADC-2792-484C-A338-1F672A1841C8}
+	EndGlobalSection
+EndGlobal
